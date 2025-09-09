@@ -1,5 +1,5 @@
-/*  your css code here. If applicable */
-main{
+/* your css code here */
+div {
 	width: 280px;
 	padding: 20px 30px;
 	background-color: #f5f5f5;
@@ -10,34 +10,37 @@ main{
 	margin: 50px auto;
 }
 
-main img{
-	width:100%;
-	border-radius:5px;
-	margin-bottom:20px;
-	background-color:transparent;
+div img {
+	width: 100%;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	background-color: transparent;
 }
-main h1{
-	font-size:30px;
-	margin:5px 0px;
-	font-weight:bold
+
+div h1 {
+	font-size: 30px;
+	margin: 5px 0px;
+	font-weight: bold;
 }
-.price{
-	font-size:22px;
-	font-weight:500;
-	margin:2px 1px
+
+.price {
+	font-size: 22px;
+	font-weight: 500;
+	margin: 2px 1px;
 }
-.desc{
-	margin:5px 29px;
-	font-weight:500;
-	font-size:22px
+
+.desc {
+	margin: 5px 29px;
+	font-weight: 500;
+	font-size: 22px;
 }
-.btn{
-	color:white;
-	padding:16px 15px;
-	background-color:red;
-	border:none;
-	width:90px;
-	height:50px;
-	border-radius:15px
-	
+
+.btn {
+	color: white;
+	padding: 16px 15px;
+	background-color: red;
+	border: none;
+	width: 90px;
+	height: 50px;
+	border-radius: 15px;
 }
